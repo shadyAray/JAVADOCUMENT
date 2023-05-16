@@ -1,4 +1,4 @@
-package shixun;
+package shixun.day1;
 import java.util.Scanner;
 public class demo {
     public static void main(String []args){
