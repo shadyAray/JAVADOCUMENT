@@ -2,7 +2,7 @@
 
 1.增加系统变量"JAVA_HOME",设置为JDK的安装路径(\jdk....)
 
-2.检查是否有Path变量，有则末尾添加"%JAVA_HOME%bin;"，无则创建Path系统变量，在末尾添加路径";%JAVA_HOME%\bin;"
+2.检查是否有Path变量，有则末尾添加jdk的根本路径（带bin），无则创建Path系统变量，在末尾添加路径";%JAVA_HOME%\bin;"
 
 3.编辑系统变量CLASSPATH，值为".;JAVA_HOME%\lib"
 
