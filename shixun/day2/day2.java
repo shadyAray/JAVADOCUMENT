@@ -43,7 +43,9 @@ public class day2 {
             System.out.print("            1.烤肉\n");
             System.out.print("            2.烧鸡\n");
             System.out.print("           3.啤酒鸭\n");
-        }
+            }
+        //选项2-2功能
+            System.out.print("回车返回上一级>>>");
         }
         }
     }
